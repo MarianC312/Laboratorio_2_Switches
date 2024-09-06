@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1725627184.47617 "e:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 2 - Switches/LaTeX/Campos.tex" "Campos.pdf" "Campos" 1725627186.60521 0
+["pdflatex"] 1725627572.59891 "e:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 2 - Switches/Laboratorio_2_Switches/LaTeX/Campos.tex" "Campos.pdf" "Campos" 1725627574.30856 0
   "C:/Users/Lojito/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1724324933 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Lojito/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1724324948 11548 bbf38d279da1d25e83d661d385854d03 ""
   "C:/Users/Lojito/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1724324800 24225518 ff847151685646c414356575b3284132 ""
@@ -76,10 +76,10 @@
   "C:/Users/Lojito/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Lojito/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Lojito/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Campos.aux" 1725627186 612 2bb054e3b7b0f9652656c8815f9e1ec9 "pdflatex"
-  "Campos.out" 1725627186 494 60f12fb1dfe68499c196d5f072c5ab12 "pdflatex"
-  "Campos.tex" 1725627183 6161 05bf57d932546afedc1b906846ff9548 ""
-  "e:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 2 - Switches/LaTeX/Campos.tex" 1725627183 6161 05bf57d932546afedc1b906846ff9548 ""
+  "Campos.aux" 1725627573 612 2bb054e3b7b0f9652656c8815f9e1ec9 "pdflatex"
+  "Campos.out" 1725627574 494 60f12fb1dfe68499c196d5f072c5ab12 "pdflatex"
+  "Campos.tex" 1725627571 6161 a4f60d2fbeeb58ce75989c35ce4588ca ""
+  "e:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 2 - Switches/Laboratorio_2_Switches/LaTeX/Campos.tex" 1725627571 6161 a4f60d2fbeeb58ce75989c35ce4588ca ""
   "images/img_02.png" 1725562920 28825 0c41593b123900d49c98f2c9c34dfdd3 ""
   "images/img_03.png" 1725562947 37429 9e74a347a238de6be4b6066b7fd34632 ""
   "images/img_04.png" 1725623576 65528 c678e11df948801494bbc7fd11e9f2fa ""

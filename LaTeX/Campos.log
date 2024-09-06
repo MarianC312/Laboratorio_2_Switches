@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.22)  6 SEP 2024 09:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.22)  6 SEP 2024 09:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"e:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 2 - Switches/LaTeX/Campos.tex"
-(e:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 2 - Switches/LaTeX/Campos.tex
+**"e:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 2 - Switches/Laboratorio_2_Switches/LaTeX/Campos.tex"
+(e:/Instituto/2do año/Redes I/Trabajos prácticos/Laboratorio 2 - Switches/Laboratorio_2_Switches/LaTeX/Campos.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\Lojito\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -339,12 +339,12 @@ Package rerunfilecheck Info: File `Campos.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  9609 strings out of 474486
- 155868 string characters out of 5743283
+ 156075 string characters out of 5743283
  1936542 words of memory out of 5000000
  31776 multiletter control sequences out of 15000+600000
  563573 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,9n,93p,695b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,9n,93p,718b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Lojito\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Lojito/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Lojito/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Lojito/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Lojito/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Lojito/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Lojito/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
 Output written on Campos.pdf (5 pages, 341320 bytes).
 PDF statistics:
